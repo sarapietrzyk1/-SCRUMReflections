@@ -1,0 +1,8 @@
+Wymóg funkcjonalny opisuje, co powinien zrobić system oprogramowania, podczas gdy wymagania niefunkcjonalne ograniczają sposób, w jaki system to zrobi.
+
+Przykładem wymagania funkcjonalnego byłoby:
+
+System musi wysłać wiadomość e-mail za każdym razem, gdy spełniony jest określony warunek (np. Zamówienie jest złożone, klient rejestruje się itp.).
+Powiązanym niefunkcjonalnym wymaganiem dla systemu może być:
+
+E-maile powinny być wysyłane z opóźnieniem nie większym niż 12 godzin od takiego działania.
