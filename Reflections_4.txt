@@ -1,0 +1,30 @@
+Czym się charakteryzuje Scrum?
+Obecnie istnieje ponad sto różnych metod i narzędzi pod wspólną etykiet
+ką Agile. Najpopularniejszym wg badań VersionOne jest Scrum (lub Scrum 
+łączony z innymi metodami, jak np. ScrumXP), z którego korzysta ponad 6
+0% badanych organizacji. Scrum jest metodą ramową, która porządkuje nie
+co proces budowania złożonych produktów. Nie wdając się szczegółowo w o
+pis, Scrum ma pięć zdarzeń (punktów inspekcji i adaptacji w konkretnym 
+rzy artefakty (przedmioty poddawane tej inspekcji) i jako opisany konce
+pt pochodzi z lat 90. Jest „ramowy”, ponieważ jedynie nakłada pewną for
+mę postępowania, ale nie wyjaśnia żadnej „treści” wewnątrz owej „formy”
+ – ten kontekst zależy tylko od zespołu/organizacji używającej Scruma.
+
+Scrum używany jest do budowania złożonych produktów, głównie oprogramow
+ania. Pozwala na eksplorację nowych pomysłów biznesowych lub technologi
+cznych, minimalizuje ryzyko eksperymentowania dzięki stałym iteracjom, 
+oraz na koniec każdej iteracji oddaje nam do rąk używalny przyrost prod
+uktu. Dzięki temu świetnie się sprawdza, kiedy chcemy utrzymać stałe te
+mpo rozwoju produktu, którego nie możemy szczegółowo zaplanować na star
+cie.
+
+Czym się charakteryzuje Kanban?
+Kanban jest nie tyle metodą, co pewną strategią optymalizacji przepływu
+ pracy zapożyczoną z japońskiego przemysłu samochodowego (Toyota). Choc
+iaż korzeniami sięga lat 50. i świata Lean, to w Agile jego odmiana Kan
+ban Software Development stawiana jest w rankingu popularności na drugi
+m miejscu. Kanban pomaga zwiększyć efektywność danego procesu, i niekon
+ieczne będzie to proces produkcji oprogramowania. Z Kanbana dobrze też
+ korzysta się w świecie HRu, marketingu, call center czy dziale prawnym
+ – wszędzie tam, gdzie kolejność pracy nie tyle zależy od wartości w pr
+odukcie (jak w Scrum), co jest po prostu kolejką tematów do zajęcia się.

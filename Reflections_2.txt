@@ -1,0 +1,6 @@
+Czym jest TDD
+TDD to podejście do tworzenia oprogramowania. Na taki sposób tworzenia 
+oprogramowania uwagę zwrócił Kent Beck1. Podejście to zakłada, że przed
+napisaniem właściwej funkcjonalności programista zaczyna od utworzenia 
+testu. Test ten powinien testować funkcjonalność, którą dopiero chcemy 
+napisać.
